@@ -1,0 +1,2 @@
+printf("hahah")
+printf("hohoh")
